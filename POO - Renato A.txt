@@ -1,0 +1,5 @@
+	Nesse primeiro bimestre de POO, ja deu para aprender bastante coisas uteis sobre C# (Algo que eu tava esperando aprender desde ano passado), e agora que finalmente acabou a espera, eu posso confirmar que é do jeito que eu esperava ser.	Conceitos muito interessantes, complexo mas divertido de se fazer. Com muitos resquicios do JavaScript, que foi aprendido ano passado, acaba que simplifica para aprender C#. 
+
+	Os conceitos aprendidos como Classe, foi muito bem explicado e pratico, onde por conta propria consegui fazer um sistema todo de mapa. Divertido brincar com as possibilidades, mas tem que se atentar bastante para não ocorrer bugs e erros de compilação. Reaprendendo os laçoes e ainda mais a organização dsobre oque é uma classe. "reaqueci" no conceito das variaveis e tipos de var. Ja tive uma pequena experiencia com C# antes por conta do me desejo desde criança de fazer jogos, mas nunca tive muita competencia para entender. Mas agora, tenho uma oportunidade melhor. 
+
+	Unico problema é que eu (desde ano passado), não aprendi a mexer no GitHub, muito menos em GITBASH.
